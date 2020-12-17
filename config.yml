@@ -1,0 +1,7 @@
+---
+api_key: INSIRA SUA CHAVE AQUI
+org_scope: facebook
+limit_org: 1000
+limit_repo: 100
+output: github.graphml
+...
