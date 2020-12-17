@@ -11,3 +11,6 @@ Instale todos os pacotes com o comando `pip install -r requirements.txt`, config
 
 ## Reproduzindo com jupyter notebook
 Eu também disponibilizei um `.ipynb`, fique a vontade para instalar o jupyter com `pip install -m jupyter==1.0.0` e executar o comando `jupyter notebook notebook.ipynb`
+
+## Informações adicionais
+Veja o exemplo gerado em https://medium.com/@pabloelt/grafo-como-as-pessoas-usam-as-labels-no-github-8830423280ce
